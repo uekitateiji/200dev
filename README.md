@@ -3,6 +3,12 @@
 
 Configurações do projeto 
 
+clone um projeto em uma pasta
+
+``
+git clone https://github.com/uekitateiji/200dev.git
+
+
 ### 1.1 NODE
 
 Versão mínima requerida para instalar o projeto: v16.0.0
